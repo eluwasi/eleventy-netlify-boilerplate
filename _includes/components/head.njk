@@ -12,14 +12,14 @@
 .container {
   position: relative;
   text-align: left;
-  color:blue;
+  color:green;
   font-size: 80%;
 
 }
 
 body {
   color: black;
-  background-color: rgb(188, 178,168)
+  background-color: white;
 }
 
 /* Bottom left text */
@@ -56,6 +56,24 @@ body {
 @media all and (max-width: 499px) {
     #img1 {display: none;}
     #img2 {display: block;}
+
+  .centered {
+  position: absolute;
+  top: 40%;
+  left: 25%;
+  transform: translate(-10%, -50%);
+  perspective: 1000px;
+  -ms-transform: skewY(4deg); /* IE 9 */
+  -webkit-transform: skewY(4deg); /* Safari 3-8 */
+  transform: skewY(4deg);
+}
+.container {
+  position: relative;
+  text-align: left;
+  color:green;
+  font-size: 45%;
+
+}
 }
 
 /* Centered text */
