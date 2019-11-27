@@ -28,5 +28,23 @@
 		{% include "components/footer.njk" %}
 
 	</body>
+<script>
+var app = document.getElementById('app');
 
+var typewriter = new Typewriter(app, {
+    loop: true
+});
+
+typewriter.typeString('Hello! Welcome to my cool website')
+    .pauseFor(2500)
+    .deleteAll()
+    .typeString("Line 1" + '\n'+ "Line 2")
+    .typeString('2I am Valentine /n \n')
+    .typeString('3I am Valentine')
+    .pauseFor(2500)
+    .deleteChars(12)
+    .typeString('<strong>like technology art & clothes!</strong>')
+    .pauseFor(2500)
+    .start();</script>
 </html>
+

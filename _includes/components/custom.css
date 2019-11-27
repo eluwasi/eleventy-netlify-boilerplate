@@ -1,0 +1,54 @@
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color:green;
+  background: linear-gradient(to right,  #9c9e9f 0%,#9c9e9f 50%,#33ccff 50%,#33ccff 100%);
+  font-size: 70%;
+
+}
+
+body {
+  color: black;
+  background-color: rgb(188, 178,168)
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  transform: translate(-10%, -50%);
+  perspective: 1000px;
+  -ms-transform: skewY(4deg); /* IE 9 */
+  -webkit-transform: skewY(4deg); /* Safari 3-8 */
+  transform: skewY(4deg);
+}
