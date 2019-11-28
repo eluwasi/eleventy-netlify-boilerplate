@@ -1,8 +1,8 @@
 ---
-title: About us
+title: work
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
-navtitle: About
+navtitle: work
 tags:
   - nav
 ---
