@@ -49,6 +49,16 @@ body {
   bottom: 8px;
   right: 16px;
 }
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  transform: translate(-10%, -50%);
+  perspective: 1000px;
+  -ms-transform: skewY(4deg); /* IE 9 */
+  -webkit-transform: skewY(4deg); /* Safari 3-8 */
+  transform: skewY(4deg);
+}
 
 #img1 {display:block;}
 #img2 {display:none}
@@ -78,16 +88,7 @@ body {
 }
 
 /* Centered text */
-.centered {
-  position: absolute;
-  top: 30%;
-  left: 40%;
-  transform: translate(-10%, -50%);
-  perspective: 1000px;
-  -ms-transform: skewY(4deg); /* IE 9 */
-  -webkit-transform: skewY(4deg); /* Safari 3-8 */
-  transform: skewY(4deg);
-}</style>
+</style>
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
