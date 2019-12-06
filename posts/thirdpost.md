@@ -7,8 +7,8 @@ tags:
   - tech
   - politics
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
+Finally got round to creating a portfolio website. One has existed through out this time but was hardly a website more a dedication to my love of 
 ```
 pre,
 code {
