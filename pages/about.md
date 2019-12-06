@@ -68,7 +68,7 @@ status: complete
 A music video exploring my fascination with the thinning line that devides reality and simulation. 
 
 Link: youtube.com
-- music ideo Concept 
+- music video concept 
 - direction
 - editing
 
@@ -81,7 +81,7 @@ Worked with Namacheko, LFA and aclaimed architect Daniel Libeskind to create an 
 Link:
 
 - concept 
-- project Management 
+- project anagement 
 - procurement 
 
 ## Ach-Jo (Brand) 
@@ -107,7 +107,7 @@ Link: ezralloydjackson.com
 
 status: complete
 
-With the release of Shumba Maasai's song AK Suttin i built a toungue in cheek space invaders inspired game.The game was part of a marketing strategy to capture more emails for the artists newsletter. 
+With the release of Shumba Maasai's song AK Suttin i built a toungue in cheek space invaders inspired game.The game sees Shumba as the main charachetr in a galaxy of bad emojis in which he shoots out positivity bullets. The game was part of a marketing strategy to capture more emails for the artist's newsletter. 
 
 Link: http://ak-suttin.shumbamaasai.com
 
