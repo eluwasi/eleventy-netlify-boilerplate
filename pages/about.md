@@ -30,7 +30,7 @@ Link: ancestralfutures.co.uk
 - event strategy
 - web development 
 - visuals concept and direction 
-- hologram design, 3D scan technitian
+- hologram design, 3D scan technician
 
 ## Catherine Quin (Brand) 
 
@@ -77,7 +77,7 @@ Link: https://notion.online/ak-suttin-by-shumba-maasai/
 
 status: complete 
 
-Worked with Namacheko, LFA and aclaimed architect Daniel Libeskind to create an installtion in Dover Street Market London's event space. 
+Worked with Namacheko, LFA and aclaimed architect Daniel Libeskind to create an installation in Dover Street Market London's event space. 
 
 Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 
@@ -89,7 +89,7 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 
 status: complete
 
-Collection marketing static website for CSM Fashion design graduate Domika Kadadova. 
+Collection marketing static website for Central Saint Martins Fashion design graduate Domika Kadadova. 
 
 Link: ach-jo.com
 
