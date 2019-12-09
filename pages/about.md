@@ -15,8 +15,8 @@ Minimal website designed to suit high demand limited edition releases.
 
 Link: shop.namacheko.com
 
-- Web design 
-- Web development
+- web design 
+- web development
 - e-commerce strategy & development
 
 ## Ancestral Futures (Event) 
@@ -30,7 +30,7 @@ Link: ancestralfutures.co.uk
 - event strategy
 - web development 
 - visuals concept and direction 
-- hologram design, scan & execution 
+- hologram design, 3D scan technitian
 
 ## Catherine Quin (Brand) 
 
@@ -56,7 +56,7 @@ Developed as part of my final year computing degree @ Goldsmiths University. If 
 Link: doneight.com
 
 - firebase database
-- programmed in dart using flutter
+- programmed in dart language using flutter
 - shopify e-commerce
 - app architecture on google cloud platform
 - google cloud vision machine learning library 
@@ -67,7 +67,8 @@ status: complete
 
 A music video exploring my fascination with the thinning line that devides reality and simulation. 
 
-Link: youtube.com
+Link: https://notion.online/ak-suttin-by-shumba-maasai/
+
 - music video concept 
 - direction
 - editing
@@ -78,7 +79,7 @@ status: complete
 
 Worked with Namacheko, LFA and aclaimed architect Daniel Libeskind to create an installtion in Dover Street Market London's event space. 
 
-Link:
+Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 
 - concept 
 - project anagement 
