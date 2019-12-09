@@ -36,7 +36,7 @@ Link: ancestralfutures.co.uk
 
 status: complete
 
-Full custom e-commerce website designed to for Catherine Quin's "suitcase" collections strategy.
+Full custom e-commerce website designed for Catherine Quin's "suitcase" collections strategy.
 
 Link: catherinequin.com
 - web design 
