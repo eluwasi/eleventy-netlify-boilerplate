@@ -7,7 +7,7 @@
 
 		<header>
 		<div class="container">
-          <img id="img1" src="../../static/img/100dp.png" alt="myverycutecomp" style="width:100%;">
+        <img id="img1" src="../../static/img/100dp.png" alt="myverycutecomp" style="width:100%;">
 		 <img id="img2" src="../../static/img/100dpm.png" alt="myverycutecomp" style="width:100%;">
 
           <div class="bottom-left"><a href="/blog">thoughts</a></div>
@@ -15,6 +15,7 @@
           <div class="top-right"> <a href="/services">services</a></div>
           <div class="bottom-right"><a href="/contact">contact</a></div>
           <div class="centered" id="app"></div>
+          <div class="centered-mobile" id="app2"></div>
           
         </div>
 			<em>
@@ -63,5 +64,39 @@ typewriter.typeString('<strong>hello❗ welcome to my 🆒 website 🌐')
     .deleteAll()
     .typeString('enjoy! ❤🧡💛💚💙 ')
     .start();</script>
+
+<script>
+var app = document.getElementById('app2');
+
+var typewriter = new Typewriter(app2, {
+    loop: true
+});
+
+typewriter.typeString('<strong>hello❗ welcome to my 🆒 website 🌐')
+    .pauseFor(2500)
+    .deleteAll()
+    .typeString('<strong>i am valentine eluwasi &#128512 😎 😎')
+	.deleteAll()
+    .typeString('<strong>i live 🏡 and work 👨🏾‍💻 in london 🇬🇧')
+    .pauseFor(1500)
+    .deleteAll()
+    .typeString('<strong>i like to make digital 🤳🏾 experiences')
+    .pauseFor(1500)
+    .deleteChars(27)
+    .typeString('<strong> sometimes physical 📵 ones too')
+    .pauseFor(500)
+    .deleteAll()
+    .typeString('<strong>see some of my work 👨🏾‍💻  over there ↖')
+    .pauseFor(500)
+    .deleteAll()
+    .typeString('<strong>if you want to say hi drop 📩 me a line over there ↘')
+    .pauseFor(500)
+    .deleteAll()
+    .typeString('<strong>and if you care about what i think 🧐 ready my thoughts 🤯 over here ↙')
+    .pauseFor(500)
+    .deleteAll()
+    .typeString('enjoy! ❤🧡💛💚💙 ')
+    .start();</script>
+
 </html>
 
