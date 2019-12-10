@@ -108,7 +108,7 @@ Link: ezralloydjackson.com
 
 status: complete
 
-With the release of Shumba Maasai's song AK Suttin i built a toungue in cheek space invaders inspired game.The game sees Shumba as the main charachetr in a galaxy of bad emojis in which he shoots out positivity bullets. The game was part of a marketing strategy to capture more emails for the artist's newsletter. 
+With the release of Shumba Maasai's song AK Suttin i built a toungue in cheek space invaders inspired game.The game sees Shumba as the main charachter in a galaxy of bad emojis in which he shoots out positivity bullets. The game was part of a marketing strategy to capture more emails for the artist's newsletter. 
 
 Link: http://ak-suttin.shumbamaasai.com
 
