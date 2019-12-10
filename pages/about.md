@@ -25,7 +25,7 @@ status: complete
 
 An event in London celebrating African ancestry through the eyes of four diaspora alternative artists. 
 
-Link: ancestralfutures.co.uk
+Link: https://www.ancestralfutures.co.uk
 - web design 
 - event strategy
 - web development 
