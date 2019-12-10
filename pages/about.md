@@ -82,7 +82,7 @@ Worked with Namacheko, LFA and aclaimed architect Daniel Libeskind to create an 
 Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 
 - concept 
-- project anagement 
+- project management 
 - procurement 
 
 ## Ach-Jo (Brand) 
