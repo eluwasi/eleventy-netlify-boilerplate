@@ -85,7 +85,14 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 - concept 
 - project management 
 - procurement 
+- 
+## White-Crayon (Design Agency) 
 
+Webdevelopment for London based creative agency white-crayon. The website features a white crayon cursor when overig of a black board which can be used to draw sketches in real time. Background colours alternate upon hover to to reflect the concept of the white-crayon. 
+
+Link: http://white-crayon.com
+
+- web devolpment in html, css & javascript
 ## Ach-Jo (Brand) 
 
 status: complete
@@ -104,6 +111,7 @@ Static web development for graphic designer and aroma jockey Ezra Jackson.
 Link: ezralloydjackson.com
 
 - web devolpment 
+
 
 ## Shumba Maasai - AK Suttin (Game) 
 
