@@ -85,7 +85,7 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 - concept 
 - project management 
 - procurement 
-- 
+  
 ## BEATSXEE25 - Nick Knight (Fashion Film)
 
 status: complete
