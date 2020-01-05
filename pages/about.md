@@ -86,6 +86,16 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 - project management 
 - procurement 
 - 
+## BEATSXEE25 - Nick Knight (Fashion Film)
+
+status: complete
+
+Beats collaborated with Nick Knight and SHOWstudio to present The Seven Deadly Sins of Edward Enninful, a film honouring 25 years of fashion by the acclaimed stylist.  It stars Mariacarla Boscono, Naomi Campbell, Jourdan Dunn, Karen Elson, Anna Ewers, Karlie Kloss, Kate Moss and Lara Stone and narrated by Travis Scott.
+
+Link: https://www.showstudio.com/projects/beatsxEE25
+
+- 3D scan technician 
+  
 ## White-Crayon (Design Agency) 
 
 Webdevelopment for London based creative agency white-crayon. The website features a white crayon cursor when overig of a black board which can be used to draw sketches in real time. Background colours alternate upon hover to to reflect the concept of the white-crayon. 
