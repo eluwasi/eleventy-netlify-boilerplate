@@ -27,11 +27,13 @@ status: complete
 An event in London celebrating African ancestry through the eyes of four diaspora alternative artists. 
 
 Link: https://www.ancestralfutures.co.uk
+
 - visuals concept and direction 
 - web design 
-- event strategy
+- event strategy & managemnt 
 - web development 
 - hologram design, 3D scan technician
+- Sponsorship partnerships (4)
 
 ## Commodity Museum (Zine)
 
@@ -147,3 +149,15 @@ Link: http://ak-suttin.shumbamaasai.com
 - game development in javascript
 - P5 JavaScript library
 - artistic Direction 
+
+## South by NorthWest (Radio Show) 
+
+status: complete
+
+Weekly radio show playing music from North and West Africa back to back with music from Southern Africa. 
+General idea was to introduce people to music from Southern Africa infused with popular afrobeat and afro-fusion from West Africa. 
+
+Link: https://wiredradio.co.uk
+
+- radio host 
+- mixing 
