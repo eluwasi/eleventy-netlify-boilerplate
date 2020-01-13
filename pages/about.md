@@ -27,11 +27,24 @@ status: complete
 An event in London celebrating African ancestry through the eyes of four diaspora alternative artists. 
 
 Link: https://www.ancestralfutures.co.uk
+- visuals concept and direction 
 - web design 
 - event strategy
 - web development 
-- visuals concept and direction 
 - hologram design, 3D scan technician
+
+## Commodity Museum (Zine)
+
+status: ongoing 
+note: if you know anyone who maybe interested in taking part please [contact me](/contact) 
+
+A research zine focused on exploring identity of African diaspora. First volume comes in the format of a fictional "Bantu Passport" in which partipants identify themselves not by their nationality but instead by their ethnic bantu group, language, ancestral home and birth place. 
+Due for release mid April 2020. 
+
+Link: https://commoditymuseum.com
+
+- concept and art direction 
+
 
 ## Catherine Quin (Brand) 
 
