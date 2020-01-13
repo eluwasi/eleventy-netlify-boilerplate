@@ -36,7 +36,7 @@ Link: https://www.ancestralfutures.co.uk
 ## Commodity Museum (Zine)
 
 status: ongoing 
-note: if you know anyone who maybe interested in taking part please [contact me](/contact) 
+note: interested in contributing? [contact me](/contact) 
 
 A research zine focused on exploring identity of African diaspora. First volume comes in the format of a fictional "Bantu Passport" in which partipants identify themselves not by their nationality but instead by their ethnic bantu group, language, ancestral home and birth place. 
 Due for release mid April 2020. 
