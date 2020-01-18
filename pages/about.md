@@ -40,7 +40,7 @@ Link: https://www.ancestralfutures.co.uk
 
 status: complete
 
-Directed the global live stream of Namacheko AW20 paris fashion week which featured a collaboration with Gregory Crewdson. The livestream was promoted by Gagosian gallery and Vogue(Global) across social media and websites. 
+Directed the global multi-platform & dual-camera live stream of Namacheko AW20 paris fashion week which featured a collaboration with Gregory Crewdson. The livestream was promoted by Gagosian gallery and Vogue(Global) across social media and websites. 
 
 Link: https://namacheko.com/stream
 
