@@ -35,6 +35,21 @@ Link: https://www.ancestralfutures.co.uk
 - hologram design, 3D scan technician
 - Sponsorship partnerships (4)
 
+
+## NAMACHEKO AW20 Paris Fashion Week Show Live Stream (Livestream) 
+
+status: complete
+
+Directed the global live stream of Namacheko AW20 paris fashion week which featured a collaboration with Gregory Crewdson. The livestream was promoted by Gagosian gallery and Vogue(Global) across social media and websites. 
+
+Link: https://namacheko.com/stream
+
+- live stream direction 
+- project management
+- colour grading 
+- global communication plan with live stream oarteners
+- OBS broadcasting 
+
 ## Commodity Museum (Zine)
 
 status: ongoing 
