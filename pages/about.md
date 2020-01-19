@@ -129,7 +129,7 @@ Link: https://www.showstudio.com/projects/beatsxEE25
   
 ## White-Crayon (Design Agency) 
 
-Webdevelopment for London based creative agency white-crayon. The website features a white crayon cursor when overig of a black board which can be used to draw sketches in real time. Background colours alternate upon hover to to reflect the concept of the white-crayon. 
+We development for London based creative agency white-crayon. The website features a white crayon cursor when overig of a black board which can be used to draw sketches in real time. Background colours alternate upon hover to to reflect the concept of the white-crayon. 
 
 Link: http://white-crayon.com
 
