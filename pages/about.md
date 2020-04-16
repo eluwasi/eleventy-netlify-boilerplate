@@ -7,6 +7,19 @@ tags:
   - nav
 ---
 
+## The Mutapa Times (Website) 
+
+status: complete
+
+he Mutapa Times is an online newspaper that aggregates Zimbabwean news from foreign press in 3 categories from over 100 different sources to deliver a curated platform for diverse Zimbabwean news for the diaspora & native residents.          
+
+Link: https://mutapatimes.com
+
+- website design and development
+- dynamic content from the NewsAPI
+- twitter bot
+  
+
 ## NAMACHEKO AW20 Paris Fashion Week Show Live Stream (Livestream) 
 
 status: complete
@@ -56,8 +69,8 @@ Link: https://www.ancestralfutures.co.uk
 status: ongoing 
 note: interested in contributing? [contact me](/contact) 
 
-A research zine focused on exploring identity of African diaspora. First volume comes in the format of a fictional "Bantu Passport" in which partipants identify themselves not by their nationality but instead by their ethnic bantu group, language, ancestral home and birth place. 
-Due for release mid April 2020. 
+A research zine focused on exploring identity of African diaspora. First volume comes in the format of a fictional "Bantu Passport" in which partipants identify themselves not by their nationality but by their ethnic bantu group, language, ancestral home and birth place. 
+Due for release Summer 2020. 
 
 Link: https://commoditymuseum.com
 
@@ -84,6 +97,8 @@ status: ongoing
 E-Commerce app designed to enable charity shop volunteers to sort and upload donated items to an online shop within 2 minutes using machine-learning to detect product attributes and translate them to product copy which is deployed straight to the product page in 10 taps or less. 
 
 Developed as part of my final year computing degree @ Goldsmiths University. If you want to see it please [shout me](eluwasi.com/contact).  
+
+Need some dev help too, if you can help with that please [shout me](eluwasi.com/contact).
 
 Link: doneight.com
 
