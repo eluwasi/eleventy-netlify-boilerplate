@@ -2,8 +2,8 @@
 title: "How the skeleteon of Mutapa Times is based on Sarah Charlesworths, The
   Arc of Total Eclipse, 1979. "
 date: 2020-04-23T15:03:08.764Z
-summary: Im not saying Sarah Charlesworths created the first NewsAPI but i'm
-  also not saying she did not....
+summary: I'm not saying Sarah Charlesworths created the first NewsAPI in the 70s
+  but i'm also not saying she did not....
 tags:
   - post
 ---
