@@ -10,7 +10,7 @@ permalink: /contact/index.html
 ---
 drop a line in the message box or [email me](mailto:v.eluwasi@live.co.uk)
 
-[ig](https://www.instagram.com/eluwasi/)
 [tw](https://twitter.com/eluwasi)
+[ig](https://www.instagram.com/eluwasi)
 [gt](https://github.com/eluwasi)
 
