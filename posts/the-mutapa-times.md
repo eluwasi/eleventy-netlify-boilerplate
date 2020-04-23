@@ -1,7 +1,7 @@
 ---
-title: "The Mutapa Times "
+title: "Launching: The Mutapa Times "
 date: 2020-04-18T15:54:47.533Z
-summary: "I made something for Zimababwe :) "
+summary: "I made a newspaper for Zimbabweans "
 tags:
   - post
 ---
@@ -9,7 +9,7 @@ tags:
 
 ![](/static/img/newspaper_auschnit02.gif)
 
-The Mutapa Times is an online newspaper that aggregates Zimbabwean news from foreign press in 3 categories from over 100 different sources to deliver a curated platform for diverse Zimbabwean news.
+[The Mutapa Times ](https://mutapatimes.com)is an online newspaper that aggregates Zimbabwean news from foreign press in 3 categories from over 100 different sources to deliver a curated platform for diverse Zimbabwean news.
 
 ## Why?
 
