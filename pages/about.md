@@ -9,7 +9,7 @@ tags:
 
 ## The Mutapa Times (Website) 
 
-status: complete
+status: due to NewsAPI.org restricting access to their api on 25/04/20 the website is currently down. 
 
 The Mutapa Times is an online newspaper that aggregates Zimbabwean news from foreign press in 3 categories from over 100 different sources to deliver a curated platform for diverse Zimbabwean news for the diaspora & native residents.          
 
