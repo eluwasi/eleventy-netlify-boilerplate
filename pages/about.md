@@ -7,12 +7,25 @@ tags:
   - nav
 ---
 
+## Artists for the Asian American Federation (Website) 
+
+
+Artists for the Asian American Federation was online fundraiser by Sirui Ma, FAR-NEAR, and friends. The initiative raised funds for the Asian American Federation, a pan-Asian non-profit representing the collective voice of 70 community based organizations serving 1.3 million Asian Americans in NYC. Over a 6 week period over 300 orders placed & 500+ auction bids.  
+
+status: complete, auctions ended
+Link: https://afaaf.org
+
+- full custom website design and development
+- ecommerce development including auction bid system intergrated with outbid email notification features
+- global stock locations 
+  
 ## The Mutapa Times (Website) 
 
-status: due to NewsAPI.org restricting access to their api on 25/04/20 the website is currently down. 
 
-The Mutapa Times is an online newspaper that aggregates Zimbabwean news from foreign press in 3 categories from over 100 different sources to deliver a curated platform for diverse Zimbabwean news for the diaspora & native residents.          
 
+The Mutapa Times is an online newspaper that aggregates Zimbabwean news from foreign press in 3 categories from over 100 different sources to deliver a curated platform for diverse Zimbabwean news for the diaspora & native residents.  
+
+status: change in API access and restrictions led to site closing dowmn :( 
 Link: https://mutapatimes.com
 
 - website design and development
