@@ -135,7 +135,7 @@ Link: doneight.com
 
 ## Shumba Maasai - AK Suttin (Music Video) 
 
-status: complete 
+status: completed
 
 A music video exploring my fascination with the thinning line that devides reality and simulation. 
 
