@@ -8,21 +8,22 @@ tags:
 ---
 
 ## Artists for the Asian American Federation (Auction Website) 
-<div class="hover-title"><a href="https://afaaf.org"><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/afaaf.gif"  /></div>
+<div class="hover-title"><a href="https://afaaf.org"><h4>Preview</h4></a>
 
 Artists for the Asian American Federation was online fundraiser by Sirui Ma, FAR-NEAR, and friends. The initiative raised funds for the Asian American Federation, a pan-Asian non-profit representing the collective voice of 70 community based organizations serving 1.3 million Asian Americans in NYC. Over a 6 week period over 300 orders placed & 500+ auction bids.  
 
-##### status: complete, auctions ended
+Status: complete, auctions ended
 Link: https://afaaf.org
 
 - full custom website design and development
 - ecommerce development including auction bid system intergrated with outbid email notification features
 - global stock locations 
+
+</div>
+<div class="hover-image"><img src="../static/img/afaaf.gif"  /></div>
   
 ## The Mutapa Times (Website) 
-<div class="hover-title"><a href="https://mutapatimes.com"><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/mutapa.png"  /></div>
+<div class="hover-title"><a href="https://mutapatimes.com"><h4>Preview</h4></a>
 
 
 The Mutapa Times is an online newspaper that aggregates Zimbabwean news from foreign press in 3 categories from over 100 different sources to deliver a curated platform for diverse Zimbabwean news for the diaspora & native residents.  
@@ -33,11 +34,12 @@ Link: https://mutapatimes.com
 - website design and development
 - dynamic content from the NewsAPI
 - twitter bot
-  
+
+</div>
+<div class="hover-image"><img src="../static/img/mutapa.png"  /></div>
 
 ## NAMACHEKO AW20 Paris Fashion Week Show Live Stream (Livestream) 
-<div class="hover-title"><a href="https://shop.namacheko.com/stream"><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/nama.gif"  /></div>
+<div class="hover-title"><a href="https://shop.namacheko.com/stream"><h4>Preview</h4></a>
 
 status: complete
 
@@ -50,10 +52,11 @@ Link: https://namacheko.com/stream
 - colour grading 
 - global communication plan with live stream partners
 - OBS broadcasting 
-  
+</div>
+<div class="hover-image"><img src="../static/img/nama.gif"  /></div>  
+
 ## Namacheko (Brand) 
-<div class="hover-title"><a href="https://shop.namacheko.com/"><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/shop.gif"  /></div>
+<div class="hover-title"><a href="https://shop.namacheko.com/"><h4>Preview</h4></a>
 
 status: complete
 
@@ -66,9 +69,11 @@ Link: shop.namacheko.com
 - e-commerce strategy & development
 - newsletter design and implementation 
 
+</div>
+<div class="hover-image"><img src="../static/img/shop.gif"  /></div>
+
 ## Ancestral Futures (Event) 
-<div class="hover-title"><a href="https://www.ancestralfutures.co.uk"><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/af.gif"  /></div>
+<div class="hover-title"><a href="https://www.ancestralfutures.co.uk"><h4>Preview</h4></a>
 
 status: complete
 
@@ -83,7 +88,8 @@ Link: https://www.ancestralfutures.co.uk
 - hologram design, 3D scan technician
 - Sponsorship partnerships (4)
 
-
+</div>
+<div class="hover-image"><img src="../static/img/af.gif"  /></div>
  
 
 ## Commodity Museum (Zine)
@@ -100,8 +106,7 @@ Link: https://commoditymuseum.com
 
 
 ## Catherine Quin (Brand) 
-<div class="hover-title"><a href=""><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/cq.gif"  /></div>
+<div class="hover-title"><a href="http://catherinequin.com/"><h4>Preview</h4></a>
 
 status: complete
 
@@ -115,9 +120,11 @@ Link: catherinequin.com
 - newsletter intergration 
 - search engine optimisation 
 
+</div>
+<div class="hover-image"><img src="../static/img/cq.gif"  /></div>
+
 ## Doneight (App) 
-<div class="hover-title"><a href=""><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/doneight.gif"  /></div>
+<div class="hover-title"><a href=""><h4>Preview</h4></a>
 
 status: ongoing
 
@@ -135,9 +142,12 @@ Link: doneight.com
 - app architecture on google cloud platform
 - google cloud vision machine learning library 
 
+</div>
+<div class="hover-image"><img src="../static/img/doneight.gif"  /></div>
+
+
 ## Shumba Maasai - AK Suttin (Music Video) 
-<div class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/aksuttin.gif"  /></div>
+<div class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a>
 
 status: completed
 
@@ -148,6 +158,10 @@ Link: https://notion.online/ak-suttin-by-shumba-maasai/
 - music video concept 
 - direction
 - editing
+- 3D scan & processing
+
+</div>
+<div class="hover-image"><img src="../static/img/aksuttin.gif"  /></div>
 
 ## Namacheko x Daniel Libeskind for London Festival of Architecture (installation)  
 
@@ -162,8 +176,7 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 - procurement 
   
 ## BEATSXEE25 - Nick Knight (Fashion Film)
-<div class="hover-title"><a href="https://www.showstudio.com/projects/beatsxEE25"><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/wrath.gif"  /></div>
+<div class="hover-title"><a href="https://www.showstudio.com/projects/beatsxEE25"><h4>Preview</h4></a>
 
 status: complete
 
@@ -172,6 +185,9 @@ Beats collaborated with Nick Knight and SHOWstudio to present The Seven Deadly S
 Link: https://www.showstudio.com/projects/beatsxEE25
 
 - 3D scan technician 
+
+</div>
+<div class="hover-image"><img src="../static/img/wrath.gif"  /></div>
   
 ## White-Crayon (Design Agency) 
 
@@ -214,7 +230,6 @@ Link: http://ak-suttin.shumbamaasai.com
   
 
 ## South by NorthWest (Radio Show) 
-<div class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a>
 status: complete
 
 Weekly radio show playing music from North and West Africa back to back with music from Southern Africa. 
@@ -224,5 +239,3 @@ Link: https://wiredradio.co.uk
 
 - radio host 
 - mixing 
-</div>
-<div class="hover-image"><img src="../static/img/wrath.gif"  /></div>
