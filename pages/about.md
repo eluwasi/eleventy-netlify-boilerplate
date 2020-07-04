@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Artists for the Asian American Federation (Auction Website) 
-<div class="hover-title"><a href="https://afaaf.org/product/alex-huanfa-cheng-an-amusement-park-under-construction/"><h4>Preview</h4></a></div>
+<div class="hover-title"><a href="https://afaaf.org"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/afaaf.gif"  /></div>
 
 Artists for the Asian American Federation was online fundraiser by Sirui Ma, FAR-NEAR, and friends. The initiative raised funds for the Asian American Federation, a pan-Asian non-profit representing the collective voice of 70 community based organizations serving 1.3 million Asian Americans in NYC. Over a 6 week period over 300 orders placed & 500+ auction bids.  
@@ -21,6 +21,8 @@ Link: https://afaaf.org
 - global stock locations 
   
 ## The Mutapa Times (Website) 
+<div class="hover-title"><a href="https://mutapatimes.com"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/mutapa.png"  /></div>
 
 
 
@@ -36,6 +38,9 @@ Link: https://mutapatimes.com
 
 ## NAMACHEKO AW20 Paris Fashion Week Show Live Stream (Livestream) 
 
+<div class="hover-title"><a href="https://shop.namacheko.com/stream"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/nama.gif"  /></div>
+
 status: complete
 
 Directed the global multi-platform & dual-camera live stream of Namacheko AW20 paris fashion week which featured a collaboration with Gregory Crewdson. The livestream was promoted by Gagosian gallery and Vogue(Global) across social media and websites. 
@@ -47,7 +52,11 @@ Link: https://namacheko.com/stream
 - colour grading 
 - global communication plan with live stream partners
 - OBS broadcasting 
+  
 ## Namacheko (Brand) 
+
+<div class="hover-title"><a href="https://shop.namacheko.com/"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/shop.gif"  /></div>
 
 status: complete
 
@@ -61,6 +70,9 @@ Link: shop.namacheko.com
 - newsletter design and implementation 
 
 ## Ancestral Futures (Event) 
+
+<div class="hover-title"><a href="https://www.ancestralfutures.co.uk"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/af.gif"  /></div>
 
 status: complete
 
@@ -93,6 +105,8 @@ Link: https://commoditymuseum.com
 
 ## Catherine Quin (Brand) 
 
+<div class="hover-title"><a href="https://catherinequin.com"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/cq.gif" /></div>
 status: complete
 
 Full custom e-commerce website designed for Catherine Quin's "suitcase" collections strategy.
@@ -105,6 +119,9 @@ Link: catherinequin.com
 - search engine optimisation 
 
 ## Doneight (App) 
+
+<div class="hover-title"><a href=""><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/doneight.gif" /></div><div 
 
 status: ongoing
 
@@ -124,6 +141,8 @@ Link: doneight.com
 
 ## Shumba Maasai - AK Suttin (Music Video) 
 
+<div  class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/aksuttin.gif" /></div>
 status: complete 
 
 A music video exploring my fascination with the thinning line that devides reality and simulation. 
@@ -147,6 +166,9 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 - procurement 
   
 ## BEATSXEE25 - Nick Knight (Fashion Film)
+
+<div  class="hover-title"><a href="https://www.showstudio.com/projects/beatsxEE25"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="https://pmcwwd.files.wordpress.com/2016/01/wrath.gif?w=600&h=338" /></div>
 
 status: complete
 
