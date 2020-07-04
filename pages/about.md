@@ -8,8 +8,8 @@ tags:
 ---
 
 ## Artists for the Asian American Federation (Auction Website) 
-<div class="hover-title"><a href="https://afaaf.org/product/alex-huanfa-cheng-an-amusement-park-under-construction/"><h4>Alex Huanfa Cheng</h4></a></div>
-<div class="hover-image"><img src="https://afaaf.org/wp-content/uploads/2020/05/ALEXHUANFACHENG-4.jpg"  /></div>
+<div class="hover-title"><a href="https://afaaf.org/product/alex-huanfa-cheng-an-amusement-park-under-construction/"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/afaaf.gif"  /></div>
 
 Artists for the Asian American Federation was online fundraiser by Sirui Ma, FAR-NEAR, and friends. The initiative raised funds for the Asian American Federation, a pan-Asian non-profit representing the collective voice of 70 community based organizations serving 1.3 million Asian Americans in NYC. Over a 6 week period over 300 orders placed & 500+ auction bids.  
 
