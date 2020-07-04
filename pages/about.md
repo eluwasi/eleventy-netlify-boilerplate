@@ -100,8 +100,7 @@ Link: https://commoditymuseum.com
 
 
 ## Catherine Quin (Brand) 
-<div class="hover-title"><a href="https://catherinequin.com"><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/cq.gif" /></div>
+
 status: complete
 
 Full custom e-commerce website designed for Catherine Quin's "suitcase" collections strategy.
@@ -114,8 +113,7 @@ Link: catherinequin.com
 - search engine optimisation 
 
 ## Doneight (App) 
-<div class="hover-title"><a href=""><h4>Preview</h4></a></div>
-<div class="hover-image"><img src="../static/img/doneight.gif" /></div><div 
+
 
 status: ongoing
 
