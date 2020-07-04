@@ -162,7 +162,7 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 - procurement 
   
 ## BEATSXEE25 - Nick Knight (Fashion Film)
-<div class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a></div>
+<div class="hover-title"><a href="https://www.showstudio.com/projects/beatsxEE25"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/wrath.gif"  /></div>
 
 status: complete
@@ -214,7 +214,7 @@ Link: http://ak-suttin.shumbamaasai.com
   
 
 ## South by NorthWest (Radio Show) 
-
+<div class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a>
 status: complete
 
 Weekly radio show playing music from North and West Africa back to back with music from Southern Africa. 
@@ -224,3 +224,5 @@ Link: https://wiredradio.co.uk
 
 - radio host 
 - mixing 
+</div>
+<div class="hover-image"><img src="../static/img/wrath.gif"  /></div>
