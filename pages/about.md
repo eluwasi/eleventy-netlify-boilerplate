@@ -8,12 +8,12 @@ tags:
 ---
 
 ## Artists for the Asian American Federation (Auction Website) 
-<div class="hover-title"><a href="https://afaaf.org"><h4>Previeew</h4></a></div>
+<div class="hover-title"><a href="https://afaaf.org"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/afaaf.gif"  /></div>
 
 Artists for the Asian American Federation was online fundraiser by Sirui Ma, FAR-NEAR, and friends. The initiative raised funds for the Asian American Federation, a pan-Asian non-profit representing the collective voice of 70 community based organizations serving 1.3 million Asian Americans in NYC. Over a 6 week period over 300 orders placed & 500+ auction bids.  
 
-status: complete, auctions ended
+##### status: complete, auctions ended
 Link: https://afaaf.org
 
 - full custom website design and development
@@ -21,9 +21,8 @@ Link: https://afaaf.org
 - global stock locations 
   
 ## The Mutapa Times (Website) 
-<div class="hover-title"><a href="https://mutapatimes.com"><h4>Previeew</h4></a></div>
+<div class="hover-title"><a href="https://mutapatimes.com"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/mutapa.png"  /></div>
-
 
 
 The Mutapa Times is an online newspaper that aggregates Zimbabwean news from foreign press in 3 categories from over 100 different sources to deliver a curated platform for diverse Zimbabwean news for the diaspora & native residents.  
@@ -37,7 +36,6 @@ Link: https://mutapatimes.com
   
 
 ## NAMACHEKO AW20 Paris Fashion Week Show Live Stream (Livestream) 
-
 <div class="hover-title"><a href="https://shop.namacheko.com/stream"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/nama.gif"  /></div>
 
@@ -54,7 +52,6 @@ Link: https://namacheko.com/stream
 - OBS broadcasting 
   
 ## Namacheko (Brand) 
-
 <div class="hover-title"><a href="https://shop.namacheko.com/"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/shop.gif"  /></div>
 
@@ -70,7 +67,6 @@ Link: shop.namacheko.com
 - newsletter design and implementation 
 
 ## Ancestral Futures (Event) 
-
 <div class="hover-title"><a href="https://www.ancestralfutures.co.uk"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/af.gif"  /></div>
 
@@ -104,7 +100,6 @@ Link: https://commoditymuseum.com
 
 
 ## Catherine Quin (Brand) 
-
 <div class="hover-title"><a href="https://catherinequin.com"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/cq.gif" /></div>
 status: complete
@@ -119,7 +114,6 @@ Link: catherinequin.com
 - search engine optimisation 
 
 ## Doneight (App) 
-
 <div class="hover-title"><a href=""><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/doneight.gif" /></div><div 
 
@@ -140,7 +134,6 @@ Link: doneight.com
 - google cloud vision machine learning library 
 
 ## Shumba Maasai - AK Suttin (Music Video) 
-
 <div  class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="../static/img/aksuttin.gif" /></div>
 status: complete 
@@ -166,7 +159,6 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 - procurement 
   
 ## BEATSXEE25 - Nick Knight (Fashion Film)
-
 <div  class="hover-title"><a href="https://www.showstudio.com/projects/beatsxEE25"><h4>Preview</h4></a></div>
 <div class="hover-image"><img src="https://pmcwwd.files.wordpress.com/2016/01/wrath.gif?w=600&h=338" /></div>
 
