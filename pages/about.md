@@ -136,6 +136,8 @@ Link: doneight.com
 - google cloud vision machine learning library 
 
 ## Shumba Maasai - AK Suttin (Music Video) 
+<div class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/aksuttin.gif"  /></div>
 
 status: completed
 
