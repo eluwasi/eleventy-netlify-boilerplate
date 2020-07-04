@@ -162,7 +162,8 @@ Link: https://highsnobiety.jp/p/namacheko-dover-street-market/
 - procurement 
   
 ## BEATSXEE25 - Nick Knight (Fashion Film)
-
+<div class="hover-title"><a href="https://notion.online/ak-suttin-by-shumba-maasai/"><h4>Preview</h4></a></div>
+<div class="hover-image"><img src="../static/img/wrath.gif"  /></div>
 
 status: complete
 
