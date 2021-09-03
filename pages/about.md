@@ -6,7 +6,18 @@ navtitle: work
 tags:
   - nav
 ---
+## NET-A-PORTER (Email Newsletter) 
+<div class="hover-title"><a href="https://netaporter.com"><h4>Preview</h4></a>
 
+Development and build of NET-A-PORTER's dynamic email newsletters across 4 regions Asia, International, Americas & Middle East.
+
+Status: complete
+Link: https://netaporter.com
+
+- HTML template design 
+- Dynamic personalised data using responsys personalisation language
+- Personalised images using kickdynamic 
+  
 ## Artists for the Asian American Federation (Auction Website) 
 <div class="hover-title"><a href="https://afaaf.org"><h4>Preview</h4></a>
 
