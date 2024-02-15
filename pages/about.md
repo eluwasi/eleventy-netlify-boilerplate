@@ -16,7 +16,10 @@ Link: https://www.net-a-porter.com
 
 - HTML template design 
 - Dynamic personalised data using responsys personalisation language
-- Personalised images using kickdynamic 
+- Personalised images using kickdynamic
+
+</div>
+<div class="hover-image"><img src="../static/img/afaaf.gif"  /></div>
   
 ## Artists for the Asian American Federation (Auction Website) 
 <div class="hover-title"><a href="https://afaaf.org"><h4>Preview</h4></a>
