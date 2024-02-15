@@ -19,7 +19,7 @@ Link: https://www.net-a-porter.com
 - Personalised images using kickdynamic
 
 </div>
-<div class="hover-image"><img src="../static/img/afaaf.gif"  /></div>
+<div class="hover-image"><img src="../static/img/NAP.gif"  /></div>
   
 ## Artists for the Asian American Federation (Auction Website) 
 <div class="hover-title"><a href="https://afaaf.org"><h4>Preview</h4></a>
