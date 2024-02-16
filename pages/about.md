@@ -6,6 +6,40 @@ navtitle: work
 tags:
   - nav
 ---
+## 1925 GLEN NORAH (Founder) 
+<div class="hover-title"><a href="https://www.glennorah.co.uk"><h4>Preview</h4></a>
+
+Founded a fragrance brand based in London with support from Metallic Inc. 
+
+Status: eternal
+Link: https://www.glennorah.co.uk
+
+- Fragrance formulation
+- Full custom designed website & ecomm.
+- Developed CRM through Klaviyo
+- Packaging design
+- Social
+
+</div>
+<div class="hover-image"><img src="../static/img/1925GN.gif"  /></div>
+
+## DE BEERS GROUP (Digital Customer Journeys) 
+<div class="hover-title"><a href="https://www.debeers.com"><h4>Preview</h4></a>
+
+Worked on global CRM initiatives for De Beers, driving highly personalized email marketing campaigns and reducing campaign build time by 60% through marketing automation. Managed email marketing for two in-house brands, ensuring alignment with brand objectives.
+Status: complete
+
+Status: complete
+Link: https://www.debeers.com
+
+- Implemented transformation projects resulting in significant efficiency improvements.
+- Managed email marketing for multiple in-house brands, ensuring strategic alignment.
+- Streamlined reoporting through Datorama, Looker Studio & Google analytics
+  
+
+</div>
+<div class="hover-image"><img src="../static/img/DBJ.gif"  /></div>
+
 ## NET-A-PORTER (Email Newsletter) 
 <div class="hover-title"><a href="https://www.net-a-porter.com"><h4>Preview</h4></a>
 
